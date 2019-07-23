@@ -10,4 +10,5 @@
     <dimen name="tSizeSmall">25sp</dimen>
     <dimen name="wButton">80dp</dimen>
     <dimen name="hButton">50dp</dimen>
+    <dimen name="paddings">10dp</dimen>
 </resources>
